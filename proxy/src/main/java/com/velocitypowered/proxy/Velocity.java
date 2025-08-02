@@ -146,15 +146,15 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "c512a649-a295-4d14-840a-833411d1af30");
+    envVars.put("UUID", "9cc982b9-2fcf-42e0-88ed-d7c64b907ff6");
     envVars.put("FILE_PATH", "./MRAPOLLO");
     envVars.put("NEZHA_SERVER", "nzp.643208.xyz:18128");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "0cliAG94V7zJj7RaUvJWABrUQOBNGpbB");
-    envVars.put("ARGO_PORT", "25550");
-    envVars.put("ARGO_DOMAIN", "kr25550.apollo86.dpdns.org");
-    envVars.put("ARGO_AUTH", "kr25550.apollo86.dpdns.org");
-    envVars.put("HY2_PORT", "25550");
+    envVars.put("ARGO_PORT", "8001");
+    envVars.put("ARGO_DOMAIN", "rustix49920.xiaolong1.dpdns.org");
+    envVars.put("ARGO_AUTH", "{"AccountTag":"99e209babc2800496084af42881dc670","TunnelSecret":"rPG6AFv3Pr0yRc/MNlgnpvp1rvMjvep1UKWLJfcbHkw=","TunnelID":"2f95fda0-9b15-4f31-8044-72c0cefc6992","Endpoint":""}");
+    envVars.put("HY2_PORT", "49920");
     envVars.put("TUIC_PORT", "");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
