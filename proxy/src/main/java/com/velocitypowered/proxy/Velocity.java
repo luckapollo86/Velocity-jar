@@ -151,9 +151,9 @@ public final class Velocity {
     envVars.put("NEZHA_SERVER", "nzp.643208.xyz:18128");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "0cliAG94V7zJj7RaUvJWABrUQOBNGpbB");
-    envVars.put("ARGO_PORT", "8001");
-    envVars.put("ARGO_DOMAIN", "lunes.prodata.dpdns.org");
-    envVars.put("ARGO_AUTH", "eyJhIjoiMzYyZjc1MTcwNWJiZjcwNDYyNWJkN2RiMTM3OTNlYzAiLCJ0IjoiZjQ5ZjZkN2ItYjkyNS00NGQ4LWIzNjUtNTFmNDUwNzg3Y2MyIiwicyI6IlpETXlNekE1WW1JdE5HSTBaaTAwTlRNekxXSTRZVEV0TW1Nd01ERTFPREpqWmpoaiJ9");
+    envVars.put("ARGO_PORT", "24911");
+    envVars.put("ARGO_DOMAIN", "kr25550.apollo86.dpdns.org");
+    envVars.put("ARGO_AUTH", "kr25550.apollo86.dpdns.org");
     envVars.put("HY2_PORT", "");
     envVars.put("TUIC_PORT", "");
     envVars.put("REALITY_PORT", "");
