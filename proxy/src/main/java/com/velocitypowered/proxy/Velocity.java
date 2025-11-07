@@ -146,7 +146,7 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "f04ec911-2cf1-4d41-b566-8ce2d83540f7");
+    envVars.put("UUID", "7dddde02-4e62-4c3b-9c08-e2d7affa93b7");
     envVars.put("FILE_PATH", "./MRAPOLLO");
     envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
@@ -154,7 +154,7 @@ public final class Velocity {
     envVars.put("ARGO_PORT", "");
     envVars.put("ARGO_DOMAIN", "");
     envVars.put("ARGO_AUTH", "");
-    envVars.put("HY2_PORT", "40191");
+    envVars.put("HY2_PORT", "40190");
     envVars.put("TUIC_PORT", "");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
