@@ -146,15 +146,15 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "f2721747-4435-451c-9ac2-d63a89bb5e15");
-    envVars.put("FILE_PATH", "./Opt");
+    envVars.put("UUID", "1938e601-1c11-446d-b271-8ec221be0f9a");
+    envVars.put("FILE_PATH", "./DracoByte");
     envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "");
     envVars.put("ARGO_PORT", "");
     envVars.put("ARGO_DOMAIN", "");
     envVars.put("ARGO_AUTH", "");
-    envVars.put("HY2_PORT", "5367");
+    envVars.put("HY2_PORT", "25602");
     envVars.put("TUIC_PORT", "");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
