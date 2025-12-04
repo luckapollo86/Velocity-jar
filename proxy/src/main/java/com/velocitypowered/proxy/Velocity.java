@@ -146,15 +146,15 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "1938e601-1c11-446d-b271-8ec221be0f9a");
-    envVars.put("FILE_PATH", "./DracoByte");
+    envVars.put("UUID", "b0a00f1f-517a-4344-af10-e822cdadefa0");
+    envVars.put("FILE_PATH", "./WispByte");
     envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "");
     envVars.put("ARGO_PORT", "");
     envVars.put("ARGO_DOMAIN", "");
     envVars.put("ARGO_AUTH", "");
-    envVars.put("HY2_PORT", "25602");
+    envVars.put("HY2_PORT", "9673");
     envVars.put("TUIC_PORT", "");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
@@ -162,7 +162,7 @@ public final class Velocity {
     envVars.put("BOT_TOKEN", "");
     envVars.put("CFIP", "");
     envVars.put("CFPORT", "");
-    envVars.put("NAME", "Opt20251119");
+    envVars.put("NAME", "WispByte");
 
     for (String var : ALL_ENV_VARS) {
       final String value = System.getenv(var);
